@@ -1,0 +1,10 @@
+{
+  "requestBody": {
+    "searchValue": "selenide",
+    "channelCode": 333
+  },
+  "requestParams": {
+    "requestId": "d5f1347a-cbbe-436b-bee1-452bc826f2fc",
+    "sessionId": "K95PaT1WRButzo5LEYG4cOC_I85jEF41O0AWMQqPSwnaBubvBPuYWsEge7_ws5dn"
+  }
+}
